@@ -12,7 +12,7 @@ Client: Tutoring center
 | `01-architecture-and-stack.md` | Architecture pattern, language, framework, database hosting, deployment, environments, file structure |
 | `02-requirements-and-business-rules.md` | Functional requirements per role, the hours/schedule validation rules, session status and hours accounting |
 | `03-data-model-and-api.md` | Database schema, internal API endpoints, external services, email catalogue |
-| `04-milestones.md` | Daily milestones with testable outcomes and the test-then-deploy pipeline every milestone goes through |
+| `04-milestones.md` | Sprint milestones (4 bi-weekly sprints, 4 roles) with testable outcomes and the test-then-deploy pipeline every sprint goes through |
 | `05-open-questions.md` | Items the brief leaves unclear, each with a proposed default so work isn't blocked |
 
 ## Key decisions at a glance
